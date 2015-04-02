@@ -10,7 +10,7 @@
 #include <math.h>
 
 #include <gccore.h>
-#include "mymodplay/ptplay.h"
+#include "ptplay/ptplay.h"
 
 #include "giddy3.h"
 #include "samples.h"
