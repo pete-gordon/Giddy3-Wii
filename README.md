@@ -9,8 +9,8 @@ the train to work.
 Enjoy :)
 
 
-Note: You need to copy all the "hats" and "onion*" folders from the normal
-version of Giddy 3 to your Wii SD card, and swap the "hats/*.wav" files
+Note: You need to copy all the "hats" and "onion\*" folders from the normal
+version of Giddy 3 to your Wii SD card, and swap the "hats/\*.wav" files
 for the raw versions from this repository.
 
 Messy, I know, but there you go.
